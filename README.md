@@ -206,7 +206,7 @@ cd ISETC2026-FSRCNN_NXP
 
 | | |
 |---|---|
-| **Amirali Abedi** *(first author)* | Communications Department, Politehnica University Timișoara · ✉️ amirali.abedi@student.upt.ro |
+| **Amirali Abedi** | Communications Department, Politehnica University Timișoara · ✉️ amirali.abedi@student.upt.ro |
 | **Muguras Mocofan** | Communications Department, Politehnica University Timișoara · ✉️ muguras.mocofan@upt.ro |
 
 ---
